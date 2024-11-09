@@ -1,4 +1,4 @@
-**GuardX –A streamlined and tech-driven name that implies protection and advanced analysis 🚨📊**
+**GuardX: A Streamlined-Tech-Driven Solution for Market Abuse Detection and Advanced Analysis**🚨📊
 
 
 
