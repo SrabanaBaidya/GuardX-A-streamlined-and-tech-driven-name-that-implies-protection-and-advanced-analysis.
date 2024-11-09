@@ -1,3 +1,7 @@
+**GuardX –A streamlined and tech-driven name that implies protection and advanced analysis 🚨📊**
+
+
+
 Welcome to **GuardX**, a project designed to detect market abuses such as insider trading, wash trading, and spoofing using SQL-based analysis. Built to simulate real-world scenarios, this project demonstrates how data analytics can enhance market integrity and prevent fraudulent activities.
 
 ### 📘 Project Overview
