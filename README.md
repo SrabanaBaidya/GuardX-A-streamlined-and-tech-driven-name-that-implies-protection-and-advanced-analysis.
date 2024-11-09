@@ -1,8 +1,8 @@
-## GuardX: A Streamlined-Tech-Driven Solution for Market Abuse Detection and Advanced Analysis 🚨📊
+## 𝐄𝐪𝐮𝐢𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬: A Streamlined-Tech-Driven Solution for Market Abuse Detection and Advanced Analysis 🚨📊
 
 
 
-Welcome to **GuardX**, a project designed to detect market abuses such as insider trading, wash trading, and spoofing using SQL-based analysis. Built to simulate real-world scenarios, this project demonstrates how data analytics can enhance market integrity and prevent fraudulent activities.
+Welcome to **𝐄𝐪𝐮𝐢𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬**, a project designed to detect market abuses such as insider trading, wash trading, and spoofing using SQL-based analysis. Built to simulate real-world scenarios, this project demonstrates how data analytics can enhance market integrity and prevent fraudulent activities.
 
 ### 📘 Project Overview
 Financial markets are vulnerable to manipulation and fraud, potentially disrupting stability and eroding investor trust. As a Data Analyst at EquiAnalytics Inc., you’re tasked by the Risk Management team to analyze trading patterns for signs of market abuse. Using SQL, TradeGuard examines three datasets—**Surveillance Optimization**, **Regulatory Enquiries**, and **Market Manipulation Data**—to uncover patterns and anomalies indicative of potential abuse.
