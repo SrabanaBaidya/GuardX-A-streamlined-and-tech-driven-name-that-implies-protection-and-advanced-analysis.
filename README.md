@@ -1,4 +1,4 @@
-**GuardX: A Streamlined-Tech-Driven Solution for Market Abuse Detection and Advanced Analysis**🚨📊
+## GuardX: A Streamlined-Tech-Driven Solution for Market Abuse Detection and Advanced Analysis 🚨📊
 
 
 
